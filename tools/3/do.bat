@@ -68,6 +68,8 @@ goto success
 echo.
 
 echo Successfully created pkgs.
+rmdir /S /Q %game%
+rmdir /S /Q %ptch%
 
 goto end
 
@@ -79,6 +81,4 @@ goto end
 
 :end
 
-echo Press any key to exit.
-
-pause>nul
+echo Exitting...
