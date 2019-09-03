@@ -1,6 +1,16 @@
-echo "Made by Rafa_99"
-
 @echo off
+echo """""""""""""""""""""""""""""""""""""""""""""""""
+echo " Made with love by:                            "
+echo "                                               "
+echo "     ____  ___    _________        ____  ____  "
+echo "    / __ \/   |  / ____/   |      / __ \/ __ \ "
+echo "   / /_/ / /| | / /_  / /| |     / /_/ / /_/ / "
+echo "  / _, _/ ___ |/ __/ / ___ |     \__, /\__, /  "
+echo " /_/ |_/_/  |_/_/   /_/  |_|____/____//____/   "
+echo "                          /_____/              "
+echo "                                               "
+echo """""""""""""""""""""""""""""""""""""""""""""""""
+
 move input\act.dat tools\4\input\act_dat
 move input\idps.hex tools\4\input\idps_hex
 rmdir /Q/S input\PS3_GAME\LICDIR
