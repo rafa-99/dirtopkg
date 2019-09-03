@@ -23,7 +23,7 @@ You just simply press ***ENTER*** and the conversion process will continue...
 
 ![](images/image3.png)
 
-Once you recieve this message, just press ok and go to the ouput folder, there you will have 3 PKG files, the ***`******GAME.pkg`***, the ***`******PATCH.pkg`*** and the ***`******LIC.pkg`***.
+Once you recieve this message, just press ok and go to the ouput folder, there you will have 3 PKG files, the ******GAME.pkg, the ******PATCH.pkg and the ******LIC.pkg.
 
 **You just copy them over to the USB Stick and install them by this order:**
 
